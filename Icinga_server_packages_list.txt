@@ -1,0 +1,14 @@
+https://packages.icinga.com/epel/7Server/release/x86_64/icinga2-2.10.2-1.el7.icinga.x86_64.rpm
+https://packages.icinga.com/epel/7Server/release/x86_64/icinga2-bin-2.10.2-1.el7.icinga.x86_64.rpm
+https://packages.icinga.com/epel/7Server/release/x86_64/icinga2-classicui-config-2.7.2-1.el7.icinga.x86_64.rpm
+https://packages.icinga.com/epel/7Server/release/x86_64/icinga2-common-2.10.2-1.el7.icinga.x86_64.rpm
+https://packages.icinga.com/epel/7Server/release/x86_64/icinga2-debuginfo-2.10.2-1.el7.icinga.x86_64.rpm
+https://packages.icinga.com/epel/7Server/release/x86_64/icinga2-doc-2.10.2-1.el7.icinga.x86_64.rpm
+https://packages.icinga.com/epel/7Server/release/x86_64/icinga2-ido-mysql-2.10.2-1.el7.icinga.x86_64.rpm
+https://packages.icinga.com/epel/7Server/release/x86_64/icinga2-ido-pgsql-2.10.2-1.el7.icinga.x86_64.rpm
+https://packages.icinga.com/epel/7Server/release/x86_64/icinga2-libs-2.9.2-1.el7.icinga.x86_64.rpm
+https://packages.icinga.com/epel/7Server/release/x86_64/icinga2-selinux-2.10.2-1.el7.icinga.x86_64.rpm
+https://packages.icinga.com/epel/7Server/release/x86_64/icingabeat-6.5.4.x86_64.rpm
+https://packages.icinga.com/epel/7Server/release/x86_64/vim-icinga2-2.10.2-1.el7.icinga.x86_64.rpm
+
+
